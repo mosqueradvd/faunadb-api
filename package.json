@@ -1,0 +1,24 @@
+{
+  "name": "fauna_tw_graphs",
+  "version": "1.0.0",
+  "description": "This is a project that uses FaunaDB by modeling a Twitter-Like Social Graph.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "FaunaDB",
+    "Node.js",
+    "Twitter"
+  ],
+  "author": "mosqueradvd",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "faunadb": "^3.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
